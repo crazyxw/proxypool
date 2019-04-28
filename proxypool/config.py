@@ -13,7 +13,6 @@ REDIS_PORT = 6379
 # 哪些网站需要使用代理, key是redis中队列的名字，value是检测ip是否可用的站点
 SITE = {
     "baidu": "https://www.baidu.com",
-    # "weixin": "http://weixin.sogou.com"
 }
 
 # 是否开启抓取模块
