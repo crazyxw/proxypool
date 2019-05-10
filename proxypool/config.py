@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# 抓取频率 10分钟抓一次
-CRAWL_RATE = 600
+# 抓取频率 5分钟抓一次
+CRAWL_RATE = 300
 
 # 验证频率  每分钟验证一次代理池里的ip是否可用
 TEST_RATE = 60
